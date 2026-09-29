@@ -14,6 +14,7 @@ Each folder has the GCC profile, as `.gcda` files (the files where GCC keeps its
 | `pal_fr` | PAL French |
 | `pal_de` | PAL German |
 | `pal_it` | PAL Italian |
+| `pal_pl` | PAL Polish (fan translation) |
 | `usa` | NTSC-U |
 | `jpn` | NTSC-J |
 
